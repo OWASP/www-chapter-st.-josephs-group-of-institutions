@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP St. Joseph Colllege of Engineering
 tags: example-tag
 region: Asia
+country: India
 meetup-group:
 
 ---
