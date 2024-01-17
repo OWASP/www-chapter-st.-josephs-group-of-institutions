@@ -9,7 +9,7 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+<!-- <div style='color:red;'>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
@@ -25,10 +25,21 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 <li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
 </ul>
 
-</div>
+</div> -->
 
+# OWASP St. Joseph's College Of Engineering - Student Chapter
 ## Welcome
-Include some information here about your chapter
+![Logo](./assets/images/OWASP_SJCE.png)
+### Greetings Cybersecurity Enthusiasts!
+<hr/>
+<br/>
+OWASP St. Joseph's College of Engineering was established on January 2024. We Host Webinar's, Workshops and Meetups. Anyone interested is welcome to attend and learn from these free events. 
+
+We are glad to welcome you to the official homepage. As an OWASP associate, we are dedicated to building a strong community of cybersecurity experts and enthusiasts.
+
+Our goal is to support organizations and people in their efforts to create, manage, and run safe online Awareness Program.
+
+With the constant changing realm of cyber dangers, our community acts as a rock-solid fortress. We take great Initiative in serving as a center for cooperation, information exchange, and ongoing education.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -39,7 +50,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
+No events currently scheduled<br/>
+Will Be Informed Soon. Till then Stay tuned
 
 <!-- You should delete this comment
 
