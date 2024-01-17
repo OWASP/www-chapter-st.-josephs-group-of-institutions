@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP St. Joseph Colllege of Engineering
-tags:  OWASP-SJCE Upcoming Events, OWASP-SJCE speakers
+title: OWASP St. Joseph College of Engineering
+tags:  OWASP-SJCE Upcoming Events, OWASP-SJCE Speakers
 region: Asia
 country: India
 meetup-group:
