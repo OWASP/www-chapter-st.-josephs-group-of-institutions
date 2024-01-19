@@ -11,7 +11,9 @@ tags: OWASP-SJCE Speakers
 ## Speakers
 
 <!-- Would you like to speak on the upcoming OWASP-SJCE meetup?--> 
+
 Are you interested in speaking at the next event hosted by the OWASP-SJCE chapter?[Contact Us](mailto:ram.praveen@owasp.org) 
+
 
 **Email Format :**
 

@@ -3,11 +3,11 @@
 
 
 ### Social Links
-* [Meetup](#)
-* [Discord](#)
-* [LinkedIn](#)
-* [Instagram](#)
-* [Twitter](#)
-* [Youtube](#)
+<!-- * [Meetup](#) -->
+* [LinkedIn](#https://www.linkedin.com/company/owasp-sjce-chapter)
+* [Discord](#https://discord.gg/8neGsaWe)
+<!-- * [Instagram](#) -->
+* [Youtube](#http://www.youtube.com/@OWASP_SJCE)
+* [Twitter](#https://twitter.com/owasp_sjce)
 
 
