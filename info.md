@@ -1,6 +1,8 @@
 ### St. Joseph College of Engineering Information
   <p><img width="auto" height="auto" src="./assets/images/OWASP_SJCE.png"></p>
 
+### SJCE Information
+* [St.Joseph's College of Engineering](https://stjosephs.ac.in/index.html)
 
 ### Social Links
 <!-- * [Meetup](#) -->

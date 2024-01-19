@@ -30,7 +30,8 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 # OWASP St. Joseph's College Of Engineering - Student Chapter
 ## Welcome
 ![Logo](./assets/images/OWASP_SJCE.png)
-<br>
+<br/>
+<br/>
 ### Greetings Cybersecurity Enthusiasts!
 <hr/>
 OWASP St. Joseph's College of Engineering was established on January 2024. We Host Webinar's, Workshops and Meetups. Anyone interested is welcome to attend and learn from these free events. 
@@ -51,7 +52,6 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Upcoming Events
 <hr/> <!-- You should keep this section as it will populate your meetup events -->
----------------------
 <!-- {% include chapter_events.html group=page.meetup-group %} -->
 <i>No events currently scheduled</i><br/>
 Will Be Informed Soon. Till then Stay tuned
