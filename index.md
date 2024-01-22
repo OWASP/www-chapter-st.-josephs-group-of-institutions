@@ -16,11 +16,14 @@ country: India
 <br/>
 ### Greetings Cybersecurity Enthusiasts!
 <hr/>
-OWASP St. Joseph's College of Engineering was established on January 2024. We Host Webinar's, Workshops and Meetups. Anyone interested is welcome to attend and learn from these free events. 
-
+OWASP St. Joseph’s College of Engineering was established in January 2024. We host webinars, workshops, and meetups. Anyone interested is welcome to attend and learn from these free events.
+ 
 We are glad to welcome you to the official homepage. As an OWASP associate, we are dedicated to building a strong community of cybersecurity experts and enthusiasts.
+ 
+Our goal is to support organizations and people in their efforts to create, manage, and run a safe online awareness program.
+ 
+With the constantly changing realm of cyber dangers, our community acts as a rock-solid fortress. We take great initiative in serving as a center for cooperation, information exchange, and ongoing education.
 
-Our goal is to support organizations and people in their efforts to create, manage, and run safe online Awareness Program.
 
 With the constant changing realm of cyber dangers, our community acts as a rock-solid fortress. We take great Initiative in serving as a center for cooperation, information exchange, and ongoing education.
 
