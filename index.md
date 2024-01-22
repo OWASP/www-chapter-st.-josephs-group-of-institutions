@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP St. Joseph College of Engineering
+title: OWASP St. Joseph's College of Engineering
 tags:  OWASP-SJCE Upcoming Events, OWASP-SJCE Speakers, owasp-SJCE
 region: Asia
 country: India
