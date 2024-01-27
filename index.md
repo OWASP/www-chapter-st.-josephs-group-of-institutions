@@ -11,7 +11,7 @@ country: India
 
 # OWASP St. Joseph's College Of Engineering - Student Chapter
 ## Welcome
-![Logo](./assets/images/OWASP_SJCE.png)
+![Logo](./assets/images/owasp_sjce_logo.png)
 <br/>
 <br/>
 ### Greetings Cybersecurity Enthusiasts!
