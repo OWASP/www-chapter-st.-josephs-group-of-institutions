@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP St. Joseph's College of Engineering
+title: OWASP St. Joseph's Group of Institutions
 tags:  OWASP-SJCE Upcoming Events, OWASP-SJCE Speakers, owasp-SJCE
 region: Asia
 country: India
@@ -9,14 +9,14 @@ country: India
 
 ---
 
-# OWASP St. Joseph's College Of Engineering - Student Chapter
+# OWASP St. Joseph's Group of Institutions - Student Chapter
 ## Welcome
 ![Logo](./assets/images/owasp_sjce_logo.png)
 <br/>
 <br/>
 ### Greetings Cybersecurity Enthusiasts!
 <hr/>
-OWASP St. Joseph’s College of Engineering was established in January 2024. We host webinars, workshops, and meetups. Anyone interested is welcome to attend and learn from these free events.
+OWASP St. Joseph’s Group of Institutions was established in January 2024. We host webinars, workshops, and meetups. Anyone interested is welcome to attend and learn from these free events.
  
 We are glad to welcome you to the official homepage. As an OWASP associate, we are dedicated to building a strong community of cybersecurity experts and enthusiasts.
  
